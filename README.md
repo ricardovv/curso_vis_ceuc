@@ -3,7 +3,7 @@
 #### Repositorio de material para Curso de Visualización Clase Ejecutiva 2026.   
 
 Ricardo Vega (Profesor): rivegam@uc.cl  
-Ayudante del curso (Javier Mieres): javiera.mieres@uc.cl  
+Javiera Mieres (Ayudante del curso): javiera.mieres@uc.cl  
 
 En este repositorio compatiremos material de las clases. Para consultas administrativas puede contactarse con la ayudante, o bien a los correos institucionales de Clase Ejecutiva.   
 
@@ -16,7 +16,7 @@ En este repositorio compatiremos material de las clases. Para consultas administ
 – Reforzar conceptos sobre visualización.  
 – Reconocer plataformas para trabajo con datos y visualización.   
 
-**Material de la clase (carpeta c01_12agos_2026)**   
+**Material de la clase ([carpeta c01_12agos_2026](https://github.com/ricardovv/curso_vis_ceuc/tree/main/c01_12agos_2026))**   
 a_RVega_intro_quiensoy_2022.pdf   b_Percepcion_QueVemos_CuandoVemos_2024.pdf   c_Intro_para_que_sirve_visualizar_2022_breve.pdf   d_Herramientas_Intro_Python.pdf   e_python_intro.ipynb   
 f_python_anscombe.ipynb   
 
@@ -54,7 +54,7 @@ f_python_anscombe.ipynb
 
 
 
-### Material de Referencia (carpeta c03_material_referencia_2026)  
+### Material de Referencia ([carpeta c03_material_referencia_2026](https://github.com/ricardovv/curso_vis_ceuc/tree/main/c03_material_referencia_2026))  
 Esta carpeta tiene material como algunas hojas con resúmenes de comandos (cheat_sheets), y otro material para profundizar.  
 
 
