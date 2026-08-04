@@ -1,0 +1,29 @@
+Material referencia
+Ricarso Vega, 2026
+
+Hola:
+Les enviamos este material pára quienes quieran aprender sobre programación, ciencia de datos entre otras cosas. Les adjuntamos algunos cheatsheets, que son como unas hojas resumen de librerías y cosas de programación en python.  
+Mucha suerte!
+R
+
+
+Más sobre Colab:
+–https://youtu.be/8VFYs3Ot_aA?si=BilEpzujl0ig0S7q
+
+Para programar con IA. 
+https://cursor.com/
+
+
+Para aprender a programar.
+–Codigo Facilito: uno de los canales en español más antiguos y conocidos, muchos cursos para aprender, incluso de pytoh. 
+https://www.youtube.com/@codigofacilito/courses
+
+–Curso Python inicial:  
+https://youtube.com/playlist?list=PL5YuOOJ-FGGjAvcJcU5vMfVoc4S7sKvcm&si=hhlNsH8Mf-2Ul8Ga
+
+–Código Máquina: Canal sobre IA, Machine Learning, Deep Learning, Large Language Modelos, y Data science. 
+https://www.youtube.com/@CodigoMaquina
+
+–Codificando Bits: Canal sobre IA, Machine Learning, Deep Learning, Large Language Modelos, y Data science. 
+https://www.youtube.com/@codificandobits
+
