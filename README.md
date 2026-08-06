@@ -12,8 +12,8 @@ En este repositorio compatiremos material de las clases. Para consultas administ
 ## CLASE 1- Miércoles 12 agosto. 17:30 - 19:00  
 
 **Objetivos:**  
-– Reconocer aspectos generales de a visualización.   
-– Reforzar conceptos sobre visualización.  
+– Reconocer aspectos generales de la visualización.   
+– Reforzar conceptos sobre visualización.   
 – Reconocer plataformas para trabajo con datos y visualización.   
 
 **Material de la clase ([carpeta c01_12agos_2026](https://github.com/ricardovv/curso_vis_ceuc/tree/main/c01_12agos_2026))**   
