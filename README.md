@@ -59,6 +59,17 @@ Esta carpeta tiene material como algunas hojas con resúmenes de comandos (cheat
 
 
 
+## ENTRE CLASES ; )
+
+### SOBRE COLAB:
+- Introducción a Google Colab, una noble y completa guía. Algo aniguo pero descibe bien los colab:   
+https://youtu.be/8VFYs3Ot_aA?si=pTgIXMVkIEPVrCrR
+
+- Programando con Python en la Nube: La guía definitiva de Google Colab (Colaboratory). Es algo más reciente en un buen canal:   
+https://youtu.be/b9yi63T4KNI?si=OIpgxbhQhQMzlQmV
+
+
+
 ## CLASE 2- Miércoles 2 septiembre. 17:30 - 19:00   
 
 En preparación  
